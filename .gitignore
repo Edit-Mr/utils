@@ -1,3 +1,7 @@
+# USE PNPM!!!
+package-lock.json
+yarn.lock
+
 # i18n
 astro_tmp_pages_*
 
