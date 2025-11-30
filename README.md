@@ -45,7 +45,7 @@ corepack use pnpm@latest
 ### Prettier
 
 ```sh
-pnpm add -D prettier prettier-plugin-organize-imports
+pnpm add -D prettier prettier-plugin-organize-imports prettier-plugin-packagejson
 ```
 
 ### [Astro](https://docs.astro.build/zh-tw/install-and-setup/)

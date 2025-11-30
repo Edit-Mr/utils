@@ -16,7 +16,7 @@
 	"quoteProps": "as-needed",
 	"jsxSingleQuote": false,
 	"singleAttributePerLine": false,
-	"plugins": ["prettier-plugin-astro"],
+	"plugins": ["prettier-plugin-astro", "prettier-plugin-packagejson"],
 	"overrides": [
 		{
 			"files": "*.astro",
