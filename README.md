@@ -42,6 +42,7 @@ corepack enable pnpm
 ```sh
 corepack use pnpm@latest
 ```
+
 ### Prettier
 
 ```sh
@@ -71,13 +72,13 @@ pnpm add lenis
 
 ### 部落格寫過的爛事
 
-* [如何更改已經 push 的 commit message](https://emtech.cc/p/git-reword/)
-* [Git force push orphan branch 其他人不能 pull 怎麼辦？](https://emtech.cc/p/git-pull-orphan/)
-* [如何把 Merge 地獄整理成乾淨的 Commit](https://emtech.cc/p/git-merge-clean/)
-* [你們為什麼就不能全域 .gitignore .DS_Store 呢？](https://emtech.cc/p/git-dsstore/)
-* [如何設定 VSCode Git pull 使用 rebase 而不是 merge](https://emtech.cc/p/vscode-git-pull/)
-* [GitHub 如何更改預設分支 (default branch)](https://emtech.cc/p/git-default-branch/)
-* [啊我剛才 push 錯了！如何在 Git 中撤銷提交](https://emtech.cc/p/git-revert/)
+- [如何更改已經 push 的 commit message](https://emtech.cc/p/git-reword/)
+- [Git force push orphan branch 其他人不能 pull 怎麼辦？](https://emtech.cc/p/git-pull-orphan/)
+- [如何把 Merge 地獄整理成乾淨的 Commit](https://emtech.cc/p/git-merge-clean/)
+- [你們為什麼就不能全域 .gitignore .DS_Store 呢？](https://emtech.cc/p/git-dsstore/)
+- [如何設定 VSCode Git pull 使用 rebase 而不是 merge](https://emtech.cc/p/vscode-git-pull/)
+- [GitHub 如何更改預設分支 (default branch)](https://emtech.cc/p/git-default-branch/)
+- [啊我剛才 push 錯了！如何在 Git 中撤銷提交](https://emtech.cc/p/git-revert/)
 
 ### 有人亂 push package-lock.json
 

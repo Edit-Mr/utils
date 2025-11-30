@@ -2,15 +2,14 @@
 	"name": "project",
 	"type": "module",
 	"scripts": {
-		"dev": "astro dev",
-		"build": "astro build",
-		"preview": "astro preview",
 		"astro": "astro",
+		"build": "astro build",
+		"dev": "astro dev",
 		"format": "prettier --write .",
-		"test": "astro check",
-		"preinstall": "npx only-allow pnpm"
+		"preinstall": "npx only-allow pnpm",
+		"preview": "astro preview",
+		"test": "astro check"
 	},
-	"packageManager": "pnpm@10.17.1",
-	"dependencies": {},
-	"devDependencies": {}
+	"devDependencies": {},
+	"packageManager": "pnpm@10.17.1"
 }
