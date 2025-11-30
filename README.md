@@ -17,6 +17,7 @@
 - 常用 gitignore
 - 常用 Actions
 - 我的 .prettierrc
+- 我常用的 License：Apache-2.0 跟 [你他媽的想幹嘛就幹嘛公眾授權條款](LICENSE)
 
 ## 環境
 
@@ -82,3 +83,9 @@ git add .gitignore
 git commit -m "chore: remove package-lock.json and ignore it"
 git push
 ```
+
+## 授權條款
+
+本專案採用[你他媽的想幹嘛就幹嘛公眾授權條款](https://www.wtfpl.net/)授權，詳情請參閱 [LICENSE](./LICENSE) 檔案。
+
+![](https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
