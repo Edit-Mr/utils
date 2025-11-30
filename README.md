@@ -42,12 +42,17 @@ corepack enable pnpm
 ```sh
 corepack use pnpm@latest
 ```
+### Prettier
+
+```sh
+pnpm add -D prettier prettier-plugin-organize-imports
+```
 
 ### [Astro](https://docs.astro.build/zh-tw/install-and-setup/)
 
 ```sh
 pnpm create astro@latest
-pnpm add -D prettier prettier-plugin-astro
+pnpm add -D prettier-plugin-astro
 ```
 
 ### React
