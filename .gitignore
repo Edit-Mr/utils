@@ -2,6 +2,8 @@
 package-lock.json
 yarn.lock
 
+.vscode
+
 # i18n
 astro_tmp_pages_*
 
